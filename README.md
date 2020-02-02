@@ -1,0 +1,2 @@
+# globo.lista
+globo.lista
